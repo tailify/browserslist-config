@@ -4,7 +4,7 @@
   "description": "Tailify's very own opinionated Browserslist configuration",
   "main": "lib/index.js",
   "files": [
-    "lib/index.js"
+    "lib"
   ],
   "scripts": {
     "lint": "eslint .",
@@ -20,11 +20,12 @@
   "bugs": "https://github.com/tailify/browserslist-config/issues",
   "homepage": "https://github.com/tailify/browserslist-config#readme",
   "devDependencies": {
+    "@tailify/eslint-config-legacy": "^1.0.0",
+    "@tailify/prettier-config": "^1.0.0",
     "browserslist": "^4.3.0",
     "eslint": "^5.10.0",
-    "eslint-plugin-jest": "^22.1.0",
-    "eslint-plugin-node": "^8.0.0",
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "prettier": "^1.15.0"
   },
   "engines": {
     "node": ">=8"
