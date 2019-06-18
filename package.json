@@ -22,7 +22,7 @@
   "devDependencies": {
     "@tailify/eslint-config-legacy": "^2.0.0",
     "@tailify/prettier-config": "^1.0.0",
-    "browserslist": "^4.3.0",
+    "browserslist": "^4.6.3",
     "eslint": "^5.10.0",
     "jest": "^24.7.0",
     "prettier": "^1.15.0"
