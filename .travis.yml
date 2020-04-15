@@ -6,8 +6,6 @@ node_js:
 branches:
   only:
     - master
-    - /^greenkeeper.*$/
-    - /^v\d+\.\d+\.\d+$/
 
 cache: npm
 
