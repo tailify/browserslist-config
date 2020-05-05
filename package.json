@@ -1,6 +1,6 @@
 {
   "name": "@tailify/browserslist-config",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Tailify's very own opinionated Browserslist configuration",
   "main": "lib/index.js",
   "files": [
