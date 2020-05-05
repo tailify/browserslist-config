@@ -20,8 +20,8 @@
   "bugs": "https://github.com/tailify/browserslist-config/issues",
   "homepage": "https://github.com/tailify/browserslist-config#readme",
   "devDependencies": {
-    "@tailify/eslint-config-legacy": "^7.0.0",
-    "@tailify/prettier-config": "^1.0.0",
+    "@tailify/eslint-config-legacy": "^8.0.3",
+    "@tailify/prettier-config": "^2.0.2",
     "browserslist": "^4.11.1",
     "eslint": "^6.0.0",
     "eslint-plugin-jest": "^23.8.2",
@@ -32,7 +32,7 @@
     "browserslist": "^4.11.1"
   },
   "engines": {
-    "node": ">=10.20.1"
+    "node": ">=10.16.0"
   },
   "publishConfig": {
     "access": "public"
